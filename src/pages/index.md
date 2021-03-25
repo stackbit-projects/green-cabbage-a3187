@@ -127,5 +127,8 @@ seo:
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
+  description: >-
+    Dubrovnik Charter offers variety of outstanding yachts on the Croatian
+    coast. Lets sail together,. wohoo
 template: landing
 ---
