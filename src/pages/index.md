@@ -103,7 +103,7 @@ sections:
     background: white
     title: Latest Posts
 seo:
-  title: Stackbit Azimuth Theme
+  title: Dubrovnik Charter yachts rental
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
