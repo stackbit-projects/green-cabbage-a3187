@@ -103,7 +103,7 @@ sections:
     background: white
     title: Latest Posts
 seo:
-  title: Dubrovnik Charter yachts rental
+  title: Dubrovnik Charter yachts rental in Dubrovnik riviera
   extra:
     - name: 'og:type'
       value: website
